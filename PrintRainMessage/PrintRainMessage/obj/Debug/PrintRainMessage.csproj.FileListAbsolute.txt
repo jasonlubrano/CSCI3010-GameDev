@@ -1,0 +1,6 @@
+C:\Users\Albert\Dropbox\Books\Book C# Unity\Visual Studio\Chapter 1 Introduction\Chapter1Code\PrintRainMessage\PrintRainMessage\bin\Debug\PrintRainMessage.exe.config
+C:\Users\Albert\Dropbox\Books\Book C# Unity\Visual Studio\Chapter 1 Introduction\Chapter1Code\PrintRainMessage\PrintRainMessage\bin\Debug\PrintRainMessage.exe
+C:\Users\Albert\Dropbox\Books\Book C# Unity\Visual Studio\Chapter 1 Introduction\Chapter1Code\PrintRainMessage\PrintRainMessage\bin\Debug\PrintRainMessage.pdb
+C:\Users\Albert\Dropbox\Books\Book C# Unity\Visual Studio\Chapter 1 Introduction\Chapter1Code\PrintRainMessage\PrintRainMessage\obj\Debug\PrintRainMessage.csprojResolveAssemblyReference.cache
+C:\Users\Albert\Dropbox\Books\Book C# Unity\Visual Studio\Chapter 1 Introduction\Chapter1Code\PrintRainMessage\PrintRainMessage\obj\Debug\PrintRainMessage.exe
+C:\Users\Albert\Dropbox\Books\Book C# Unity\Visual Studio\Chapter 1 Introduction\Chapter1Code\PrintRainMessage\PrintRainMessage\obj\Debug\PrintRainMessage.pdb
